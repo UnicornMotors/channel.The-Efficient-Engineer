@@ -1,1 +1,2 @@
 - [Understanding Engineering Drawings](https://youtu.be/ht9GwXQMgpo)
+- [Understanding GD&T](https://youtu.be/G7wnGeR_69k)
